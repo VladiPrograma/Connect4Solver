@@ -9,6 +9,7 @@ The IA can look up 7 plays far.
 
 
 ------------Español----------------------------------
+
 Es el conecta 4 de toda la vida pero tiene implementada una IA que juega contra ti y te gana casi siempre.
 
 El tablero es mas grande de lo normal 8*7 de normal es 7*6. La IA tiene implementada el algoritmo MIN y MAX junto
